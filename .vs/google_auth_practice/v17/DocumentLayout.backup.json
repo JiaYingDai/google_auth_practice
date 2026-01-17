@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u6234\u5609\u7469\u8CC7\u6599\\google_auth_practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5933A9FB-A44F-4E6B-AAA6-FD777E1045CD}|google_auth_practice\\google_auth_practice.csproj|e:\\\u6234\u5609\u7469\u8CC7\u6599\\google_auth_practice\\google_auth_practice\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5933A9FB-A44F-4E6B-AAA6-FD777E1045CD}|google_auth_practice\\google_auth_practice.csproj|solutionrelative:google_auth_practice\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5933A9FB-A44F-4E6B-AAA6-FD777E1045CD}|google_auth_practice\\google_auth_practice.csproj|e:\\\u6234\u5609\u7469\u8CC7\u6599\\google_auth_practice\\google_auth_practice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5933A9FB-A44F-4E6B-AAA6-FD777E1045CD}|google_auth_practice\\google_auth_practice.csproj|solutionrelative:google_auth_practice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5933A9FB-A44F-4E6B-AAA6-FD777E1045CD}|google_auth_practice\\google_auth_practice.csproj|e:\\\u6234\u5609\u7469\u8CC7\u6599\\google_auth_practice\\google_auth_practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5933A9FB-A44F-4E6B-AAA6-FD777E1045CD}|google_auth_practice\\google_auth_practice.csproj|solutionrelative:google_auth_practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kyoani\\AppData\\Roaming\\Microsoft\\UserSecrets\\bc56d9a5-c1c3-46ee-b889-34bd9cad3f6b\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\\u6234\u5609\u7469\u8CC7\u6599\\google_auth_practice\\google_auth_practice\\appsettings.json",
+              "RelativeDocumentMoniker": "google_auth_practice\\appsettings.json",
+              "ToolTip": "E:\\\u6234\u5609\u7469\u8CC7\u6599\\google_auth_practice\\google_auth_practice\\appsettings.json",
+              "RelativeToolTip": "google_auth_practice\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-17T09:19:37.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\kyoani\\AppData\\Roaming\\Microsoft\\UserSecrets\\bc56d9a5-c1c3-46ee-b889-34bd9cad3f6b\\secrets.json",
+              "ToolTip": "C:\\Users\\kyoani\\AppData\\Roaming\\Microsoft\\UserSecrets\\bc56d9a5-c1c3-46ee-b889-34bd9cad3f6b\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-17T08:56:28.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\\u6234\u5609\u7469\u8CC7\u6599\\google_auth_practice\\google_auth_practice\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "google_auth_practice\\Controllers\\AccountController.cs",
+              "ToolTip": "E:\\\u6234\u5609\u7469\u8CC7\u6599\\google_auth_practice\\google_auth_practice\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "google_auth_practice\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwDEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T08:54:12.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\\u6234\u5609\u7469\u8CC7\u6599\\google_auth_practice\\google_auth_practice\\Program.cs",
+              "RelativeDocumentMoniker": "google_auth_practice\\Program.cs",
+              "ToolTip": "E:\\\u6234\u5609\u7469\u8CC7\u6599\\google_auth_practice\\google_auth_practice\\Program.cs",
+              "RelativeToolTip": "google_auth_practice\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T08:53:34.193Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
