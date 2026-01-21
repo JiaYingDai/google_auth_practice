@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("google_auth_practice_api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cfa2c2524210d4552c06ffbd2a4afa977e861195")]
 [assembly: System.Reflection.AssemblyProductAttribute("google_auth_practice_api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("google_auth_practice_api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

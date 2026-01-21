@@ -36,6 +36,22 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "google_auth_practice_api.Controllers.GoogleApiLoginController",
+    "Method": "ValidateGoogle",
+    "RelativePath": "api/googleApiLogin/validateGoogle",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "google_auth_practice_api.Dtos.GoogleLoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "google_auth_practice.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",
@@ -45,7 +61,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[google_auth_practice.WeatherForecast, google_auth_practice, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[google_auth_practice.WeatherForecast, google_auth_practice_api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",

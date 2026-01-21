@@ -44,7 +44,7 @@ app.UseHttpsRedirection();
 
 app.UseAuthorization();
 
-// 啟用驗證中間件
+// 啟用驗證中介
 app.UseAuthentication();
 
 app.MapControllers();
